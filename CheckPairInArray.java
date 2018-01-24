@@ -1,4 +1,4 @@
-public class HelloWorld{
+public class CheckPairInArray{
 
     private static final int MAX = 100000;
     
